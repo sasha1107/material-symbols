@@ -16,20 +16,14 @@
 #### Step 2. Icon 의 Style을 선택하세요.
 
 Material Symbols(`sharp`, `outlined`, `rounded`)의 Style 중 추가할 Style을 다중 선택할 수 있습니다.
-(spacebar 로 선택 가능합니다.)
+(spacebar로 선택 가능합니다.)
 
-> ADS 1.0(2025/02) 기준 `sharp` 스타일만 사용하기로 정의되어 불필요한 svg의 import를 줄이기 위해 옵션을 `sharp`만 남겨두고 주석처리 해두었습니다.
->
-> `outlined`, `rounded` 스타일이 필요한 경우 [`_templates/gen/material-icon/prompt.js`](#TODO) 파일을 수정하여 사용할 수 있습니다.
 
 #### Step 3. Icon 의 Weight를 선택하세요.
 
 Material Symbols(`100`, `200`, `300`, `400`, `500`, `600`, `700`)의 Weight 중 추가할 Weight을 다중 선택할 수 있습니다.
 (spacebar 로 선택 가능합니다.)
 
-> ADS 1.0(2025/02) 기준 `500` 버전만 사용하기로 정의되어 옵션을 `500`만 남겨두고 주석처리 해두었습니다.
->
-> `100`, `200`, `300`, `400`, `600`, `700` 버전이 필요한 경우 [`_templates/gen/material-icon/prompt.js`](#TODO) 파일을 수정하여 사용할 수 있습니다.
 
 #### Step 4. 생성된 경로를 입력하여 barrel file에 추가
 
