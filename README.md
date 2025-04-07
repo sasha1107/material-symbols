@@ -1,6 +1,9 @@
 # material-symbols
 
-## 목적
+## 목적 & 목표
+
+- 필요한 variant에 따라 아이콘을 선택적으로 생성하여 사용하기 위하여 code gen 방식을 취함.
+- 생성된 아이콘 트리셰이킹되도록 export 하여 번들 사이즈를 최소화한다.
 
 ## Icon 생성 방법
 
@@ -31,8 +34,6 @@ Material Symbols(`100`, `200`, `300`, `400`, `500`, `600`, `700`)의 Weight 중 
 
 `added: 아이콘 생성된 경로`를 그대로 복사 & 붙여넣기하면 패키지의 아이콘들을 전부 export 하는 배럴 파일(`packages/icons/src/index.ts`)에 방금 생성한 아이콘이 추가됩니다. 
 
-
-### Custom Icon 생성
 
 ## Icon 사용 방법
 
