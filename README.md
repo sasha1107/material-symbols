@@ -6,11 +6,11 @@
 
 ### Material Symbols Icon 생성
 
+![인터랙티브 아이콘 패키지](https://github.com/user-attachments/assets/bc09738c-e656-45fe-9470-f44ac8b8e76c)
+
 #### Step 1. Material Symbols Icon 이름을 입력하세요.
 
 - [Material Symbols and Icons](https://fonts.google.com/icons)에 정의되어 있는 Icon 이름을 복사하여 입력하세요.
-
-![인터랙티브 아이콘 패키지](https://github.com/user-attachments/assets/bc09738c-e656-45fe-9470-f44ac8b8e76c)
 
 
 #### Step 2. Icon 의 Style을 선택하세요.
