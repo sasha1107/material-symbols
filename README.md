@@ -9,7 +9,8 @@
 
 ### Material Symbols Icon 생성
 
-![인터랙티브 아이콘 패키지](https://github.com/user-attachments/assets/bc09738c-e656-45fe-9470-f44ac8b8e76c)
+![1](https://github.com/user-attachments/assets/f94af42e-ea99-4165-9983-1c8b57f189a3)
+
 
 #### Step 1. Material Symbols Icon 이름을 입력하세요.
 
@@ -30,7 +31,8 @@ Material Symbols(`100`, `200`, `300`, `400`, `500`, `600`, `700`)의 Weight 중 
 
 #### Step 4. 생성된 경로를 입력하여 barrel file에 추가
 
-![inject](https://github.com/user-attachments/assets/c0beda33-42bf-42ce-b5de-129b61f10f7e)
+![2](https://github.com/user-attachments/assets/b515893f-2f27-4976-9bec-59a09e4cb9ab)
+
 
 `added: 아이콘 생성된 경로`를 그대로 복사 & 붙여넣기하면 패키지의 아이콘들을 전부 export 하는 배럴 파일(`packages/icons/src/index.ts`)에 방금 생성한 아이콘이 추가됩니다. 
 
